@@ -62,7 +62,7 @@ export default function Home({ allPostsData, instagramPosts }) {
         <title>{siteTitle}</title>
       </Head>
       <Card className={utilStyles.headingMd}>
-      
+        <h2 className={utilStyles.headingLg}>My name is Trav.</h2>
         <p>As far as life goes, I'm just a normal guy living in Perth, Western Australia with my 3 beautiful girls, who I made with my super hot partner in crime. We done good, trust me. ;)</p><p>Other than that, I'm a music nut, art-a-holic and during the summer, I'm a total kook on the surf, but I'm determined to learn... </p><p>As far as work goes, I'm a dev by day and a designer by night.</p><p>That's pretty much me.</p> <br /><br />
         <p>
           <h2 className={utilStyles.headingLg}>If you want to learn more...</h2>
