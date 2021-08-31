@@ -96,7 +96,7 @@ export default function Home({ allPostsData, instagramPosts }) {
 
 
       <Card>
-        <h2 className={utilStyles.headingLg}>Instagram <a href="https://instagram.com/travvvw/" target="_blank">@travvw</a></h2>
+        <h2 className={utilStyles.headingLg}>Instagram <a href="https://instagram.com/travvvw/" target="_blank">@travvvw</a></h2>
         <br /><br />
         <InstagramFeed instagramPosts={instagramPosts} />
 

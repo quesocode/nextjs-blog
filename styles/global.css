@@ -22,7 +22,7 @@
 }
 
 body::-webkit-scrollbar {
-    width: 0.2em;
+    width: 0.5em;
   }
    
   body::-webkit-scrollbar-track {
@@ -30,8 +30,10 @@ body::-webkit-scrollbar {
   }
    
   body::-webkit-scrollbar-thumb {
-    background-color: #555;
-    border-radius: 20px;
+    background-color: #F0A58B;
+    border-radius: 0;
+    border-right: 3px solid black;
+    border: 3px solid black;
   }
 
 html,
@@ -45,6 +47,7 @@ body {
   font-weight: 300;
   background: #111111;
   color: #a5a59d;
+  scroll-behavior: smooth;
 }
 
 h1, h2, h3, h4, h5

@@ -7,13 +7,16 @@
 {
     list-style: none;
     display: flex;
-    flex-wrap: wrap;
+    flex-flow: row wrap;
     margin: 0;
-    padding: 0;
+    padding: 0;    
+    justify-content: space-around;
 }
 
 .insta ul li
 {
-    width: 25%;
-    padding: 0 1rem 1rem 0;
+
+    width: 32%;  /* Or whatever */
+    margin: auto auto .4rem;  /* Magic! */
+    
 }
