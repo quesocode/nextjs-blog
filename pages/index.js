@@ -25,9 +25,9 @@ export default function Home({ allPostsData }) {
       </Head>
       <Card className={utilStyles.headingMd}>
       
-        <p>I'm a full time dad of 3 beautiful girls. I've got a super hot partner. I'm a music nut and I'm a total kook when it comes to surfing, but I'm still trying... so there's that. </p><p>As far as making money goes, I'm a dev by day and a designer by night.</p>
+        <p>I'm a super happy dad of 3 beautiful girls, who I made with my super hot partner in crime. We done good, trust me. ;)</p><p>Other than that, I'm a music nut, art-a-holic and during the summer, I'm a total kook on the surf, but I'm determined to learn... </p><p>As far as making money goes, I'm a dev by day and a designer by night.</p> <br /><br />
         <p>
-          <h3>Here are my links</h3>
+          <h2 className={utilStyles.headingLg}>If you want to learn more...</h2>
           <ul className={utilStyles.list}>
             <li className={utilStyles.listItem}><a href="https://wundermanthompson.com" target="_blank">Wunderman Thompson</a> - My full-time design gig I freakin' love ♥️</li>
             <li className={utilStyles.listItem}><a href="https://travis.work" target="_blank">Travis.work</a> - A little site for me to sell my art prints I publish on Friyays</li>
