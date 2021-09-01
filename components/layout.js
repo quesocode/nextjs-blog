@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'howdy.'
-export const siteTitle = 'Travis Weerts - a pretty cool guy, sometimes...'
+export const siteTitle = 'Travis Weerts - UI / UX / Developer / Normal Dude from Perth, Western Australia'
 
 export default function Layout({ children, home }) {
   return (
