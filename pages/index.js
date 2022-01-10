@@ -69,7 +69,7 @@ export default function Home({ allPostsData, instagramPosts }) {
           <ul className={utilStyles.list}>
             <li className={utilStyles.listItem}><a href="https://wundermanthompson.com" target="_blank">Wunderman Thompson</a> - My full-time design gig I freakin' love ♥️</li>
             <li className={utilStyles.listItem}><a href="https://travis.work" target="_blank">Travis.work</a> - A little site for me to sell my art prints I publish on Friyays</li>
-            <li className={utilStyles.listItem}><a href="https://queso.com.au" target="_blank">Queso</a> - My startup side hustle I run with with my mate Ben</li>
+            <li className={utilStyles.listItem}><a href="https://queso.com.au" target="_blank">Queso</a> - Experimental Side Project</li>
             <li className={utilStyles.listItem}><a href="https://linkedin.com/in/travisweerts/" target="_blank">LinkedIn</a> - Where I hang out professionally</li>
             <li className={utilStyles.listItem}><a href="https://instagram.com/travvvw/" target="_blank">Instagram</a> - My personal instagram</li>
             <li className={utilStyles.listItem}><a href="https://www.behance.net/travis-weerts" target="_blank">Behance</a> - Pretty much the same as my insta, but with less baby photos</li>
